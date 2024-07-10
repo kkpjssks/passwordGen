@@ -1,2 +1,5 @@
 # passwordGen
-simple shell script to generate password
+Simple shell script to generate password
+
+# Run
+Clone the repository and open it in terminal. Then run the command ./generate.
